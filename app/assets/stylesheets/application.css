@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+ .hbody{
+    background-color: pink;
+    color: red;
+    margin-left: 15cm;
+    margin-top: 10cm;
+}
+.rbody{
+    background-color: white;
+    color: black;
+    margin-left: 15cm;
+    margin-top: 10cm;
+}
