@@ -22,5 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-![Git Version Screenshot](/home/dispatchtrack/Pictures/Screenshots)
+![Git Version Screenshot](gitversion.png)
 Hello
