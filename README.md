@@ -22,5 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
 ![Git Version Screenshot](/home/dispatchtrack/Pictures/Screenshots/Screenshot from 2024-06-14 14-17-18.png)
+=======
+![Git Version Screenshot](/gitversion.png)
+>>>>>>> dev
 Hello
