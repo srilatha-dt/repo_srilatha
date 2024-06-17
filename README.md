@@ -23,5 +23,4 @@ Things you may want to cover:
 
 * ...
 ![Git Version Screenshot](/gitversion.png)
-hello world
-
+hello
