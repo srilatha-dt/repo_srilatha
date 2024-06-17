@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   #get "up" => "rails/health#show", as: :rails_health_check
   get "/home", to: "homepage#hpage"
   get "/customer_support", to: "customersupport#cpage"
+  #get '*path', to: '#404cc', via: :all
   # Defines the root path route ("/")
   # root "posts#index"
 end
